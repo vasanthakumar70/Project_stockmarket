@@ -14,7 +14,7 @@ The project is designed to run on a set schedule (e.g., daily) to stay up-to-dat
 
 ## Highlights
 
-- **Data Mining**: Gets stock prices and volumes for over 30 companies using the Alpha Vantage API
+- **Data Mining**: Gets stock prices and volumes for  using the Alpha Vantage API
 - **Data Transformation**: Converts the raw JSON data into useful information, including the date, opening price, closing price, highest price, lowest price, and volume.
 - **Data Loading**: Saves the processed data into the SQL Database.
 - **Logging**: It includes logging process to track successes and failures.

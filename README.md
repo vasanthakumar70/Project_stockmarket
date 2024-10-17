@@ -1,6 +1,6 @@
 # Project_stockmarket
 
-This project shows how to get stock market data from the Alpha Vantage API, use PySpark to process it, and then save the processed data in an SQL Database.
+This project shows how to get stock market data from  API, use PySpark to process it, and then save the processed data in an SQL Database.
 
 ## Project Summary
 
@@ -18,6 +18,9 @@ The project is designed to run on a set schedule (e.g., daily) to stay up-to-dat
 - **Data Transformation**: Converts the raw JSON data into useful information, including the date, opening price, closing price, highest price, lowest price, and volume.
 - **Data Loading**: Saves the processed data into the SQL Database.
 - **Logging**: It includes logging process to track successes and failures.
+
+### Process Flow:  
+![Process Flow](https://github.com/vasanthakumar70/Project_stockmarket/blob/ce232c40bcb0f2626fcc37e952a6425dd98306c2/Process%20Diagram.svg)
 
 ## Project Structure
 

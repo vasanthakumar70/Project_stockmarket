@@ -19,7 +19,7 @@ The project is designed to run on a set schedule (e.g., daily) to stay up-to-dat
 - **Data Loading**: Saves the processed data into the SQL Database.
 - **Logging**: It includes logging process to track successes and failures.
 
-### Process Flow:  
+### Process:  
 ![Process Flow](https://github.com/vasanthakumar70/Project_stockmarket/blob/ce232c40bcb0f2626fcc37e952a6425dd98306c2/Process%20Diagram.svg)
 
 ## Project Structure
